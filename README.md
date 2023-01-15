@@ -1,4 +1,4 @@
-# news_app_template
+## news_app_template
 
 
 This is a Template for a news app UI i worked on, 
